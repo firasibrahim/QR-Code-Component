@@ -1,0 +1,46 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #d5e1ef;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Adjust as needed */
+}
+.card {
+  width: 320px;
+  height: 497px;
+  border-radius: 14px;
+  background-color: #ffffff;
+  padding: 12px;
+}
+.QRcard {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.QRcard img {
+  border-radius: 8px;
+  height: 288px;
+  width: 288px;
+}
+.card-content {
+  padding: 16px;
+}
+.card-content h2 {
+  margin-top: 8px;
+  color: #1f314f;
+}
+.card-content p {
+  color: #7d889e;
+  margin-top: 8px;
+}
