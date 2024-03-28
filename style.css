@@ -44,3 +44,6 @@ body {
   color: #7d889e;
   margin-top: 8px;
 }
+card-content {
+  text-align: center;
+}
