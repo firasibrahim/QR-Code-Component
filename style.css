@@ -39,6 +39,7 @@ body {
 .card-content h3 {
   margin-top: 8px;
   color: #1f314f;
+  text-align: center;
 }
 .card-content p {
   color: #7d889e;
