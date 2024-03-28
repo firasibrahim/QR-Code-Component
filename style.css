@@ -42,8 +42,9 @@ body {
 }
 .card-content p {
   color: #7d889e;
-  margin-top: 8px;
+  margin-top: 4px;
+  text-align: center;
 }
-card-content {
+card-content p {
   text-align: center;
 }
